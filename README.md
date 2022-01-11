@@ -5,4 +5,4 @@
 
 I modified some Bira theme:
 
-<!-- ![image](https://user-images.githubusercontent.com/47620801/137736384-9afbe009-5751-4e4b-8522-e2c2c7c787b6.png) -->
+![alt text](https://github.com/stivncastillo/mecabira-theme/blob/main/mecabira.png?raw=true)
